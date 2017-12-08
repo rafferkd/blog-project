@@ -1,4 +1,5 @@
 // Modules and Variables
+@import 'abstracts/variables';
 
 // Partials
 // @import "partials/reset";
@@ -10,9 +11,6 @@
 // Third-party
 // @import "vendor/colorpicker";
 // @import "vendor/jquery.ui.core";
-
-$primary-color: #b0eb00;
-
 
 a {
   color: $primary-color;
